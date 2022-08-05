@@ -1,3 +1,18 @@
 .row {
   row-gap: 20px;
 }
+
+.projects {
+  border: 5px black;
+  border-style: solid;
+  margin-top: 40px;
+  padding: 10px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+h2 {
+  font-style: italic;
+}
