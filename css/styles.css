@@ -1,3 +1,8 @@
+img {
+  float: left;
+  margin-right: 10px;
+}
+
 .row {
   row-gap: 20px;
 }
@@ -11,6 +16,7 @@
 
 span {
   text-decoration: underline;
+  color: rgb(255, 0, 0);
 }
 
 h2 {
