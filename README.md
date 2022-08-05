@@ -22,8 +22,7 @@ _This is a portfolio webpage I created to showcase my strengths and history. The
 * _Select gh-pages_
 * _Navigate down to and press gh-pages under environments_
 * _Press view deployment to be taken to the portfolio_
- 
-_N/A_
+* _Or alternatively click this link https://spencerjdennis.github.io/portfolio/_
  
 ## Known Bugs
  
